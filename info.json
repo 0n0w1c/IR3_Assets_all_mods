@@ -21,7 +21,6 @@
         "IR3_Assets_steamworks",
         "IR3_Assets_tarmac",
         "IR3_Assets_turrets",
-        "IR3_Assets_walls",
-        "IR3_Assets_wood_industry"
+        "IR3_Assets_walls"
     ]
 }
