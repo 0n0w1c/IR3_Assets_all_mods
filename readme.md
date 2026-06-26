@@ -1,28 +1,21 @@
 #### IR3 Assets: all mods
 
-Mod pack of all IR3 Assets mods
+Mod pack of all the IR3 Assets reskin mods
 
 ---
 
-#### How to use
+*Requires the manual installation of the Industrial Revolution 3 Asset Packs.*
 
-First, you need to install [IR3_Assets: some assembly required](https://mods.factorio.com/mod/IR3_Assets_some_assembly_required)
-Then install this mod pack  
-(The other mods will be automatically installed)  
+Created by **Deadlock989**, licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
----
+Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.0.  
+However, users have full permissions to make the necessary modifications themselves.  
+For licensing concerns: [FAQ](https://mods.factorio.com/mod/IR3_Assets_assembling_machines/faq)  
 
-#### Customizing your setup
-
-If you do not want all of the included mods active:  
-
-1. Disable this mod pack   
-2. Disable any of IR3 Assets mods   
-(See notes below)
+See the mod [IR3 Assets: Some assembly required](https://mods.factorio.com/mod/IR3_Assets_some_assembly_required)
 
 ---
 
-#### Notes
+If the IndustrialRevolution3 Asset Packs are not installed, this mod will do nothing.
 
-- *IR3_Assets: some assembly required* must be enabled if any other IR3_Assets mod is active  
-- This mod does not add any content by itself   
+This mod does **not** include IR3 or the assets.  
